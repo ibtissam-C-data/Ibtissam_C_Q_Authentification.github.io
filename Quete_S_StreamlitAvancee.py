@@ -2,9 +2,9 @@ import streamlit as st
 from streamlit_authenticator import Authenticate
 from streamlit_option_menu import option_menu
 import pandas as pd
-import seaborn as sns
-import plotly.express as px
-import matplotlib.pyplot as plt
+# import seaborn as sns
+# import plotly.express as px
+# import matplotlib.pyplot as plt
 
 # Nos données utilisateurs doivent respecter ce format
 
