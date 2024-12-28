@@ -46,15 +46,15 @@ def accueil():
       col1, col2, col3 = st.columns(3)
 
       with col1:
-        st.header("Chat noir")
+        st.header("Noir")
         st.image("https://www.code-couleur.com/images/listing/listing2020/chat-noir.jpg")
 
       with col2:
-        st.header("Chat blanc")
+        st.header("Blanc")
         st.image("https://www.code-couleur.com/images/listing/listing2020/chat-blanc.jpg")
 
       with col3:
-        st.header("Chat bicol")
+        st.header("bicolore")
         st.image("https://www.code-couleur.com/images/listing/listing2020/chat-siamois.jpg")
 
 
