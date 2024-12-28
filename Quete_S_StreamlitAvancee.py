@@ -33,7 +33,7 @@ def accueil():
   with st.sidebar:
     authenticator.logout("Déconnexion")
     st.title("Bienvenu root")
-    selection = option_menu(menu_title=None, options = ["Accueil", "Les photos de mes chat"])
+    selection = option_menu(menu_title=None, options = ["Accueil", "Les photos de mes chats"])
       # On indique au programme quoi faire en fonction du choix
 
 
