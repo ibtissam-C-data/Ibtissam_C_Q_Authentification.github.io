@@ -38,11 +38,11 @@ def accueil():
 
 
   if selection == "Accueil":
-    st.title("Bienvenu sur ma page")
+    st.title("Bienvenue sur ma page")
     st.image("https://www.code-couleur.com/images/listing/rose-lilas.jpg")
 
-  elif selection == "Les photos de mes chat":
-      st.write("Bienvenue dans l'album de mon chat")
+  elif selection == "Les photos de mes chats":
+      st.write("Bienvenue dans l'album de mes chats")
       col1, col2, col3 = st.columns(3)
 
       with col1:
